@@ -15,7 +15,9 @@
 
 ## 🚀 Why JARVIS?
 
-In a world overwhelmed by meetings and messages, **JARVIS** acts as your second brain. It doesn't just record; it understands. From real-time meeting assistance to cross-platform message summarization, JARVIS ensures you stay in the flow and never miss a critical detail.
+As a Software Engineer, I found myself overwhelmed by back-to-back meetings, fragmented communications across Slack and WhatsApp, and a never-ending stream of tasks. I needed a tool for myself—a true second brain that didn't just record, but understood my workflow. 
+
+**JARVIS** was built to solve this. From real-time meeting assistance to cross-platform message summarization, JARVIS ensures you stay in the flow, focus on coding, and never miss a critical detail again.
 
 ### ✨ Key Features
 
