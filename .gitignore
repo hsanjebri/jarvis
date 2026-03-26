@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Chrome Extension
+*.crx
+*.pem
+
+# Project specific
+backend/browser_data/
+server.log
+status_full.json
+C:\Users\hassa\.gemini\antigravity\brain\**
+C:\Users\hassa\.gemini\antigravity\scratch\**\*.png
+!logo.png
